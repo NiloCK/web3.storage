@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/web3-storage/web3.storage/compare/website-v2.6.0...website-v2.7.0) (2022-06-14)
+
+
+### Features
+
+* cases for visual minimums to both stored and pinned meters ([#1333](https://github.com/web3-storage/web3.storage/issues/1333)) ([9ed73f3](https://github.com/web3-storage/web3.storage/commit/9ed73f372110856acec1078f5e556890662289db))
+
 ## [2.6.0](https://github.com/web3-storage/web3.storage/compare/website-v2.5.1...website-v2.6.0) (2022-06-13)
 
 
