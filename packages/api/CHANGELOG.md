@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.2.1](https://github.com/web3-storage/web3.storage/compare/api-v6.2.0...api-v6.2.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* add wrangler entry point ([85aea7b](https://github.com/web3-storage/web3.storage/commit/85aea7b79147e2f543bdfb0428215113bcef94ac))
+* upgrade wrangler ([#1432](https://github.com/web3-storage/web3.storage/issues/1432)) ([e2d10e7](https://github.com/web3-storage/web3.storage/commit/e2d10e7127ace2de4af462043183e3337ad9bc3e))
+
+
+### Other Changes
+
+* add Wrangler worker env for Josh ([#1351](https://github.com/web3-storage/web3.storage/issues/1351)) ([74f4656](https://github.com/web3-storage/web3.storage/commit/74f4656123863089d0df86c2ab916262df59f26f))
+* fix typedefs for user tag functions ([#1387](https://github.com/web3-storage/web3.storage/issues/1387)) ([6f3500c](https://github.com/web3-storage/web3.storage/commit/6f3500cf93e22c37af09d12a0f5e1f5e68194286))
+
 ## [6.2.0](https://github.com/web3-storage/web3.storage/compare/api-v6.1.1...api-v6.2.0) (2022-06-01)
 
 
